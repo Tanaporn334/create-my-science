@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    line-height: 1.4;
+}
+
+#header {
+    margin-bottom: 15px;
+    background: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+#underline {
+    border-bottom-style: solid;
+    border-bottom-color: rgb(255, 255, 255);
+}
+
+#main {
+    float: right;
+    width: 74.5%;
+}
+
+#Left {
+    float: left;
+    width: 25%;
+}
+
+#Right {
+    float: right;
+    width: 39%;
+}
+
+#sidebar {
+    float: right;
+    width: 29%;
+}
+
+.illustration {
+    float: left;
+    width: 10%;
+}
+
+.clr {
+    clear: both;
+}
+
+#footer {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.text-center {
+    display: block;
+    text-align: center;
+}
+
+.card {
+    border: 1px solid rgb(161, 191, 219);
+    background: #b0daeb;
+    padding: 10px 0px 13px;
+}
+
+.link {
+    border: 1px solid rgb(161, 191, 219);
+    background: #b0daeb;
+    width: 70%;
+    padding: 30px 0px 13px;
+    margin: 500px 200px;
+}
+
+.write {
+    border: 1px solid rgb(206, 143, 175);
+    background: #f8d6ed;
+    width: 80%;
+    padding: 10px 0px 10px;
+    margin-bottom: 20px;
+}
+
+.post {
+    border: 1px solid rgb(36, 37, 41);
+    background: #dededf;
+    width: 90%;
+    padding: 0px 0px 15px;
+    margin: 10px 10px;
+    margin-bottom: 10px;
+}
+
+.content {
+    border: 1px solid rgb(36, 37, 41);
+    background: #a3a3a5;
+    width: 95%;
+    padding: 10px 0px 50px;
+    margin: 10px 10px;
+    margin-bottom: 10px;
+}
+
+.write-link {
+    border: 1px solid rgb(206, 143, 175);
+    background: #f8d6ed;
+    width: 80%;
+    padding: 10px 0px 10px;
+    margin-bottom: 20px;
+}
+
+.activity {
+    border: 1px solid rgb(36, 37, 41);
+    background: #dededf;
+    width: 90%;
+    padding: 10px 0px 50px;
+    margin: 10px 10px;
+    margin-bottom: 10px;
+}
+
+.try {
+    background-image: url("images/cover.jpg");
+    text-align: center;
+    padding: 200px;
+    margin-bottom: -120px;
+}
+
+#menu {
+    border: 1px solid rgb(235, 200, 235);
+    background: rgb(235, 200, 235);
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+.font-kanit {
+    font-family: Kanit;
+}
+
+#center {
+    float: center;
+    text-align: center;
+}
